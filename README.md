@@ -13,6 +13,7 @@ Project: Using NLP to classify sentiment positive or negative about movies in IM
 | Name | Description |
 |--- |---|
 | Sentiment Analisys | Using NLP to analise sentiment positive or negative in IMDB's database |
+| Idioms Detector | Using NLP to detect idioms in Stackoverflow database |
 
 
 ## How to use this repo
